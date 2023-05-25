@@ -19,9 +19,11 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 ## Experiment:
 file:///home/sec/Pictures/Screenshots/Screenshot%20from%202023-05-25%2010-29-38.png![image](https://github.com/VARSHINI22009118/Muttiple-capacity-with-infinite-capacity/assets/119401150/2be5b9d7-5100-4495-babd-6abb4f14aedb)
+![image](https://github.com/VARSHINI22009118/Muttiple-capacity-with-infinite-capacity/assets/119401150/d0b6b338-0626-4f63-8491-bc5e17c4463b)
 
 
 ## Program
+```
 DEVELOPED BY : VARSHINI S.A
 REGISTER NO : 212222100059
 
@@ -56,7 +58,7 @@ if (rho<1):
 else:
     print("Warning! Objects Over flow will happen in the conveyor")
 print("--------------------------------------------------------------")
-
+```
 
 ## Output :
 file:///home/sec/Pictures/Screenshots/Screenshot%20from%202023-05-25%2010-28-13.png![image](https://github.com/VARSHINI22009118/Muttiple-capacity-with-infinite-capacity/assets/119401150/9d3324ff-1d9f-44d3-8a66-cc36c444abef)
