@@ -13,21 +13,7 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 ## Procedure :
 
 ![image](https://user-images.githubusercontent.com/103921593/203238265-176740b0-eae2-4772-90be-5449869ac9b0.png)
-
-
-
-
 ![image](https://github.com/VARSHINI22009118/Muttiple-capacity-with-infinite-capacity/assets/119401150/2be5b9d7-5100-4495-babd-6abb4f14aedb)
-
-
-
-
-
-
-
-
-
-
 ![image](https://github.com/VARSHINI22009118/Muttiple-capacity-with-infinite-capacity/assets/119401150/d0b6b338-0626-4f63-8491-bc5e17c4463b)
 
 
